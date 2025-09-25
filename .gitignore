@@ -362,3 +362,30 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /quicksort.cpp
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.vcxproj.user
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.db
+*.suo
+*.tlb
+*.tlh
+*.tmp
+*.log
+*.idb
+*.pdb
+*.ipch
+*.obj
+*.pch
+
+# Executables
+*.exe
+*.dll
+*.lib
